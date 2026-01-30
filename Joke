@@ -1,0 +1,33 @@
+# My Awesome Project
+
+This is a cool thing I'm building.
+
+## Features
+- Feature 1
+- Feature 2
+
+## How to use
+1. Clone the repo
+2. Run `npm install`
+# My Awesome Project
+
+This is a cool thing I'm building.
+
+## Features
+- Feature 1
+- Feature 2
+
+## How to use
+1. Clone the repo
+2. Run `npm install`# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.code-workspace
